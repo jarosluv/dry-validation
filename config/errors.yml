@@ -87,3 +87,6 @@ en:
           arg:
             default: "length must be %{size}"
             range: "length must be within %{size_left} - %{size_right}"
+
+    correct_phone?: Введённый номер телефона не является корректным
+    correct_period?: Введённый период не является корректным
